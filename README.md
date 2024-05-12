@@ -1,4 +1,5 @@
 ﻿1. Project Name: Coffe-shop
+ link demo: https://thong-ltv.github.io/coffe-shop/
 
 2.Description:
 + just an interface of a website about selling coffee
